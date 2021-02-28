@@ -39,3 +39,4 @@ https://www.elastic.co/guide/en/elasticsearch/hadoop/current/spark.html
 Returns a new RDD instead of mutating the existing RDD.
 1. filter() - used for getting a subset of the RDD.
 2. map() - lets each element in the input RDD pass through the function that it takes. Can also make HTTP calls.
+3. flatMap - 1- Many relationship.
